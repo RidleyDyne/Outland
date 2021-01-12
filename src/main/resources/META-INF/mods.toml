@@ -1,0 +1,22 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+issueTrackerURL="https://github.com/RidleyDyne/Outland/issues" #optional
+[[mods]] #mandatory
+modId="ridleydyneoutland" #mandatory
+version="${version}" #mandatory
+displayName="RidleyDyne Outland" #mandatory
+#updateJSONURL="" #optional
+displayURL="https://github.com/RidleyDyne/Outland" #optional
+#logoFile="" #optional
+#credits="" #optional
+authors="Mark Strendin" #optional
+description='''
+This mod adds a simple alternative dimension
+'''
+[[dependencies.ridleydyneoutland]]
+      modId="forge"
+      mandatory=true
+      versionRange="[35.0,)"
+      ordering="NONE"
+      side="BOTH"

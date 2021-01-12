@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "ridleydyneoutland:item/dimensional_crystal"
+    }
+  }
