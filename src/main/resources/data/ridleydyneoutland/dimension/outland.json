@@ -1,0 +1,13 @@
+{
+    "type": "ridleydyneoutland:outland",
+    "generator": {
+        "type":"minecraft:noise",
+        "seed": 845524565,
+        "biome_source": {
+            "type": "minecraft:vanilla_layered",
+            "seed": 845524565,
+            "large_biomes": true
+        },
+        "settings":"minecraft:overworld" 
+    }
+}

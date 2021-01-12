@@ -1,0 +1,17 @@
+{
+    "name": "ridleydyneoutland:outland",
+    "type": "ridleydyneoutland:outland",
+    "ultrawarm": false,
+    "natural": true,
+    "piglin_safe": false,
+    "respawn_anchor_works": true,
+    "bed_works": true,
+    "has_raids": true,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.0,
+    "sea_level": 125,
+    "logical_height": 256,
+    "infiniburn": "minecraft:infiniburn_overworld",
+    "coordinate_scale": 1
+  }
