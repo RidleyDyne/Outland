@@ -2,12 +2,12 @@
     "type": "ridleydyneoutland:outland",
     "generator": {
         "type":"minecraft:noise",
-        "seed": 845524565,
+        "seed": 0,
         "biome_source": {
-            "type": "minecraft:vanilla_layered",
-            "seed": 845524565,
-            "large_biomes": true
+            "type": "minecraft:fixed",
+            "seed": 0,
+            "biome": "minecraft:jungle"
         },
-        "settings":"minecraft:overworld" 
+        "settings":"minecraft:amplified" 
     }
 }
